@@ -1,3 +1,4 @@
+package GetStrongHold;
 public class StringtoInteger {
     public static void main(String[] args) {
         String s ="   -042";
